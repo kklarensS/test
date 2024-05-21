@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'Gotham Pro Bold';
+  src: url("../fonts/GothamPro-Bold.eot");
+  src: url("../fonts/GothamPro-Bold.eot%3F") format("embedded-opentype"), url("../fonts/GothamPro-Bold.woff") format("woff"), url("../fonts/GothamPro-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gotham Pro Regular';
+  src: url("../fonts/GothamPro.eot");
+  src: url("../fonts/GothamPro.eot%3F") format("embedded-opentype"), url("../fonts/GothamPro.woff") format("woff"), url("../fonts/GothamPro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gotham Pro Medium';
+  src: url("../fonts/GothamPro-Medium.eot");
+  src: url("../fonts/GothamPro-Medium.eot%3F") format("embedded-opentype"), url("../fonts/GothamPro-Medium.woff") format("woff"), url("../fonts/GothamPro-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gotham Pro Light';
+  src: url("../fonts/GothamPro-Light.eot");
+  src: url("../fonts/GothamPro-Light.eot%3F") format("embedded-opentype"), url("../fonts/GothamPro-Light.woff") format("woff"), url("../fonts/GothamPro-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gotham Pro Black';
+  src: url("../fonts/GothamPro-Black.eot");
+  src: url("../fonts/GothamPro-Black.eot%3F") format("embedded-opentype"), url("../fonts/GothamPro-Black.woff") format("woff"), url("../fonts/GothamPro-Black.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gotham Pro Black Italic';
+  src: url("https://spacecore.pro/template/fonts/GothamPro-BlackItalic.eot");
+  src: url("https://spacecore.pro/template/fonts/GothamPro-BlackItalic.eot?") format("embedded-opentype"), url("https://spacecore.pro/template/fonts/GothamPro-BlackItalic.woff") format("woff"), url("https://spacecore.pro/template/fonts/GothamPro-BlackItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+.font-black-i {
+  font-family: 'Gotham Pro Black Italic'; }
+
+.font-black {
+  font-family: 'Gotham Pro Black'; }
+
+.font-light {
+  font-family: 'Gotham Pro Light'; }
+
+.font-bold {
+  font-family: 'Gotham Pro Bold';
+  letter-spacing: 0.5px; }
+
+.font-medium {
+  font-family: 'Gotham Pro Medium'; }
+
+body {
+  font-family: 'Gotham Pro Regular'; }
+
+.font-24 {
+  font-size: 24px; }
+
+.font-16 {
+  font-size: 16px; }
+
+.font-18 {
+  font-size: 18px; }
+
+.font-48 {
+  font-size: 48px; }
+
+.font-12 {
+  font-size: 12px; }
+
+.font-15 {
+  font-size: 15px; }
+
+.text-white-35 {
+  color: rgba(255, 255, 255, 0.35); }
+
+.text-white-50 {
+  color: rgba(255, 255, 255, 0.5); }
+
+.font-14 {
+  font-size: 14px; }
+
+.font-48 {
+  font-size: 48px; }
+
+.font-36 {
+  font-size: 36px; }
